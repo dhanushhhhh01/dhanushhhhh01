@@ -4,26 +4,26 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushrameshbabu16-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushrameshbabu16)
 [![GitHub](https://img.shields.io/badge/GitHub-dhanushhhhh01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushhhhh01)
-[![Location](https://img.shields.io/badge/📍-Berlin%2C%20Germany-green?style=for-the-badge)](https://github.com/dhanushhhhh01)
-[![Open to Work](https://img.shields.io/badge/🟢-Open%20to%20Werkstudent%2FInternship-brightgreen?style=for-the-badge)](https://linkedin.com/in/dhanushrameshbabu16)
+[![Location](https://img.shields.io/badge/ð-Berlin%2C%20Germany-green?style=for-the-badge)](https://github.com/dhanushhhhh01)
+[![Open to Work](https://img.shields.io/badge/ð¢-Open%20to%20Werkstudent%2FInternship-brightgreen?style=for-the-badge)](https://linkedin.com/in/dhanushrameshbabu16)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ð¨âð» About Me
 
 I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, specializing in **Engineering & Sustainable Technology Management (Industry 4.0)**. I build intelligent, connected systems at the intersection of AI, industrial automation, and robotics.
 
-- 🎓 MSc. Engineering & Sustainable Technology Management — SRH Berlin
-- - 🏭 Passionate about **Industry 4.0**, **IIoT**, and **AI-driven automation**
-  - - 🤖 Building **ROS 2** robot systems and **digital twins**
-    - - 🔁 Automating workflows with **n8n**, **LangChain**, and **LLM APIs**
-      - - 🔍 Actively seeking **Werkstudent** or **Internship** roles in Berlin
+- ð MSc. Engineering & Sustainable Technology Management â SRH Berlin
+- - ð­ Passionate about **Industry 4.0**, **IIoT**, and **AI-driven automation**
+  - - ð¤ Building **ROS 2** robot systems and **digital twins**
+    - - ð Automating workflows with **n8n**, **LangChain**, and **LLM APIs**
+      - - ð Actively seeking **Werkstudent** or **Internship** roles in Berlin
        
         - ---
 
-        ## 🛠️ Tech Stack
+        ## ð ï¸ Tech Stack
 
         ### Languages
         ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,26 +60,26 @@ I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, spe
 
         ---
 
-        ## 🚀 Featured Projects
+        ## ð Featured Projects
 
         | Project | Description | Stack |
         |--------|-------------|-------|
-        | [🏭 industry4-cv-plc-sorting-bridge](https://github.com/dhanushhhhh01/industry4-cv-plc-sorting-bridge) | AI-powered color sorting with OpenCV + PLC/MQTT | Python, OpenCV, MQTT |
-        | [🤖 ros2-robot-simulation](https://github.com/dhanushhhhh01/ros2-robot-simulation) | Multi-robot fleet orchestration with ROS 2 & Nav2 | ROS2, Python, Gazebo |
-        | [🔁 n8n-ai-workflow-hub](https://github.com/dhanushhhhh01/n8n-ai-workflow-hub) | 12 production n8n workflow automations | n8n, Docker, AI APIs |
-        | [🧠 llm-agent-toolkit](https://github.com/dhanushhhhh01/llm-agent-toolkit) | Modular LLM agent framework with RAG & tools | Python, LangChain, OpenAI |
-        | [🌐 iiot-gateway-bridge](https://github.com/dhanushhhhh01/iiot-gateway-bridge) | OPC-UA/MQTT/Modbus edge-to-cloud gateway | Python, InfluxDB, Docker |
-        | [🔥 thermal-predictive-twin](https://github.com/dhanushhhhh01/thermal-predictive-twin) | ML-based thermal failure prediction digital twin | Python, LSTM, FastAPI |
-        | [🛠️ python-automation-scripts](https://github.com/dhanushhhhh01/python-automation-scripts) | 20+ automation scripts for data, web & industrial | Python, MQTT, Slack |
-        | [📊 smart-factory-dashboard](https://github.com/dhanushhhhh01/smart-factory-dashboard) | Real-time factory KPI dashboard with OEE, downtime & n8n alerts | Python, MQTT, Grafana, Docker |
-        | [🗣️ ros2-llm-voice-robot](https://github.com/dhanushhhhh01/ros2-llm-voice-robot) | ROS 2 robot controlled via natural language LLM commands | ROS2, LangChain, Ollama, Nav2 |
-        | [⚙️ predictive-maintenance-api](https://github.com/dhanushhhhh01/predictive-maintenance-api) | Production-ready FastAPI for LSTM-based failure prediction | Python, FastAPI, LSTM, Docker |
-        | [☁️ iiot-azure-pipeline](https://github.com/dhanushhhhh01/iiot-azure-pipeline) | Edge-to-Azure IoT Hub pipeline with device twin management | Python, Azure IoT, MQTT, Docker |
-        | [🤖 industrial-ai-agent](https://github.com/dhanushhhhh01/industrial-ai-agent) | LLM agent that monitors n8n workflows & auto-diagnoses failures | Python, LangGraph, n8n API, Ollama |
+        | [ð­ industry4-cv-plc-sorting-bridge](https://github.com/dhanushhhhh01/industry4-cv-plc-sorting-bridge) | AI-powered color sorting with OpenCV + PLC/MQTT | Python, OpenCV, MQTT |
+        | [ð¤ ros2-robot-simulation](https://github.com/dhanushhhhh01/ros2-robot-simulation) | Multi-robot fleet orchestration with ROS 2 & Nav2 | ROS2, Python, Gazebo |
+        | [ð n8n-ai-workflow-hub](https://github.com/dhanushhhhh01/n8n-ai-workflow-hub) | 12 production n8n workflow automations | n8n, Docker, AI APIs |
+        | [ð§  llm-agent-toolkit](https://github.com/dhanushhhhh01/llm-agent-toolkit) | Modular LLM agent framework with RAG & tools | Python, LangChain, OpenAI |
+        | [ð iiot-gateway-bridge](https://github.com/dhanushhhhh01/iiot-gateway-bridge) | OPC-UA/MQTT/Modbus edge-to-cloud gateway | Python, InfluxDB, Docker |
+        | [ð¥ thermal-predictive-twin](https://github.com/dhanushhhhh01/thermal-predictive-twin) | ML-based thermal failure prediction digital twin | Python, LSTM, FastAPI |
+        | [ð ï¸ python-automation-scripts](https://github.com/dhanushhhhh01/python-automation-scripts) | 20+ automation scripts for data, web & industrial | Python, MQTT, Slack |
+        | [ð smart-factory-dashboard](https://github.com/dhanushhhhh01/smart-factory-dashboard) | Real-time factory KPI dashboard with OEE, downtime & n8n alerts | Python, MQTT, Grafana, Docker |
+        | [ð£ï¸ ros2-llm-voice-robot](https://github.com/dhanushhhhh01/ros2-llm-voice-robot) | ROS 2 robot controlled via natural language LLM commands | ROS2, LangChain, Ollama, Nav2 |
+        | [âï¸ predictive-maintenance-api](https://github.com/dhanushhhhh01/predictive-maintenance-api) | Production-ready FastAPI for LSTM-based failure prediction | Python, FastAPI, LSTM, Docker |
+        | [âï¸ iiot-azure-pipeline](https://github.com/dhanushhhhh01/iiot-azure-pipeline) | Edge-to-Azure IoT Hub pipeline with device twin management | Python, Azure IoT, MQTT, Docker |
+        | [ð¤ industrial-ai-agent](https://github.com/dhanushhhhh01/industrial-ai-agent) | LLM agent that monitors n8n workflows & auto-diagnoses failures | Python, LangGraph, n8n API, Ollama |
 
         ---
 
-## ✨ Contribution Activity
+## â¨ Contribution Activity
 
 <div align="center">
 
@@ -87,7 +87,7 @@ I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, spe
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/dhanushhhhh01/dhanushhhhh01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 
 <br/>
 
@@ -97,7 +97,7 @@ I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, spe
 
 ---
 
-        ## 📚 Currently Learning
+        ## ð Currently Learning
 
         ```python
         currently_learning = {
@@ -110,19 +110,19 @@ I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, spe
 
         ---
 
-        ## 📬 Get In Touch
+## 📬 Get In Touch
 
-        > 🟢 **I am actively looking for Werkstudent or Internship opportunities in Berlin!**
-        > >
-        > >> If you're working on anything in **Industry 4.0**, **AI Automation**, **Robotics**, or **IIoT** — let's connect!
-        > >> >
-        > >> >> [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushrameshbabu16)
-        > >> >> > [![Email](https://img.shields.io/badge/Email%20Me-dhanushr.3504%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushr.3504@gmail.com)
-        > >> >> >
-        > >> >> > ---
-        > >> >> >
-        > >> >> > <div align="center">
+<div align="center">
 
-        ![Profile Views](https://komarev.com/ghpvc/?username=dhanushhhhh01&color=brightgreen&style=for-the-badge)
+🟢 **I am actively looking for Werkstudent or Internship opportunities in Berlin!**
 
-        </div>
+If you're working on anything in **Industry 4.0**, **AI Automation**, **Robotics**, or **IIoT** — let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushrameshbabu16)
+[![Email](https://img.shields.io/badge/Email%20Me-dhanushr.3504%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushr.3504@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhanushhhhh01&color=brightgreen&style=for-the-badge)
+
+</div>
