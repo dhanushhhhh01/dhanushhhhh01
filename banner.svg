@@ -1,0 +1,80 @@
+<svg width="1200" height="220" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+          <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+                  <stop offset="50%" style="stop-color:#1a1a2e;stop-opacity:1" />
+                  <stop offset="100%" style="stop-color:#16213e;stop-opacity:1" />
+          </linearGradient>
+          <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+                  <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.3" />
+                  <stop offset="100%" style="stop-color:#0080ff;stop-opacity:0.1" />
+          </linearGradient>
+    </defs>
+
+    <!-- Background -->
+    <rect width="1200" height="220" fill="url(#bg)" rx="0"/>
+
+    <!-- Circuit board lines (automation theme) -->
+    <g stroke="#00d4ff" stroke-width="1" opacity="0.15">
+          <line x1="0" y1="40" x2="200" y2="40"/>
+          <line x1="200" y1="40" x2="200" y2="80"/>
+          <line x1="200" y1="80" x2="400" y2="80"/>
+          <line x1="100" y1="40" x2="100" y2="160"/>
+          <line x1="100" y1="160" x2="300" y2="160"/>
+          <line x1="300" y1="160" x2="300" y2="120"/>
+          <line x1="300" y1="120" x2="500" y2="120"/>
+          <line x1="1000" y1="60" x2="1200" y2="60"/>
+          <line x1="1000" y1="60" x2="1000" y2="140"/>
+          <line x1="1000" y1="140" x2="800" y2="140"/>
+          <line x1="1100" y1="60" x2="1100" y2="180"/>
+          <line x1="900" y1="140" x2="900" y2="40"/>
+          <line x1="900" y1="40" x2="700" y2="40"/>
+    </g>
+
+    <!-- Circuit dots -->
+    <g fill="#00d4ff" opacity="0.4">
+          <circle cx="200" cy="40" r="3"/>
+          <circle cx="200" cy="80" r="3"/>
+          <circle cx="100" cy="160" r="3"/>
+          <circle cx="300" cy="160" r="3"/>
+          <circle cx="300" cy="120" r="3"/>
+          <circle cx="1000" cy="60" r="3"/>
+          <circle cx="1000" cy="140" r="3"/>
+          <circle cx="1100" cy="60" r="3"/>
+          <circle cx="900" cy="140" r="3"/>
+          <circle cx="900" cy="40" r="3"/>
+    </g>
+
+    <!-- Gear icon (automation) left -->
+    <g transform="translate(60,100)" fill="none" stroke="#00d4ff" stroke-width="2" opacity="0.5">
+          <circle cx="0" cy="0" r="18"/>
+          <circle cx="0" cy="0" r="8"/>
+          <rect x="-4" y="-24" width="8" height="10" rx="2"/>
+          <rect x="-4" y="14" width="8" height="10" rx="2"/>
+          <rect x="14" y="-4" width="10" height="8" rx="2"/>
+          <rect x="-24" y="-4" width="10" height="8" rx="2"/>
+    </g>
+
+    <!-- Gear icon right -->
+    <g transform="translate(1140,100)" fill="none" stroke="#00d4ff" stroke-width="2" opacity="0.5">
+          <circle cx="0" cy="0" r="18"/>
+          <circle cx="0" cy="0" r="8"/>
+          <rect x="-4" y="-24" width="8" height="10" rx="2"/>
+          <rect x="-4" y="14" width="8" height="10" rx="2"/>
+          <rect x="14" y="-4" width="10" height="8" rx="2"/>
+          <rect x="-24" y="-4" width="10" height="8" rx="2"/>
+    </g>
+
+    <!-- Wave bottom decoration -->
+    <path d="M0,190 Q150,170 300,185 Q450,200 600,185 Q750,170 900,185 Q1050,200 1200,185 L1200,220 L0,220 Z" fill="#00d4ff" opacity="0.08"/>
+    <path d="M0,200 Q150,185 300,195 Q450,208 600,195 Q750,185 900,195 Q1050,208 1200,195 L1200,220 L0,220 Z" fill="#00d4ff" opacity="0.05"/>
+
+    <!-- Main title -->
+    <text x="600" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="bold" fill="#00d4ff" text-anchor="middle" letter-spacing="2">Dhanush Ramesh Babu</text>
+
+    <!-- Subtitle -->
+    <text x="600" y="140" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#ffffff" text-anchor="middle" opacity="0.9">Industry 4.0 Engineer  |  AI &amp; Automation  |  IIoT  |  ROS 2  |  Python</text>
+
+    <!-- Tagline -->
+    <text x="600" y="172" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#00d4ff" text-anchor="middle" opacity="0.7" font-style="italic">Building the bridge between physical machines and intelligent software</text>
+</svg>
