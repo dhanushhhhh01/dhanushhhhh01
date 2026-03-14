@@ -79,16 +79,23 @@ I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, spe
 
         ---
 
-        ## 📊 GitHub Stats
+## ✨ Contribution Activity
 
-        <div align="center">
+<div align="center">
 
-        ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushhhhh01&show_icons=true&theme=tokyonight&hide_border=true)
-        ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushhhhh01&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushhhhh01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 
-        </div>
+<br/>
 
-        ---
+<img src="https://raw.githubusercontent.com/dhanushhhhh01/dhanushhhhh01/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
+---
 
         ## 📚 Currently Learning
 
