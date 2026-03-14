@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Dhanush%20Ramesh%20Babu&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Industry%204.0%20%7C%20AI%20%26%20Automation%20%7C%20IIoT%20%7C%20ROS%202%20%7C%20Python&descAlignY=58&descSize=18&descColor=ffffff" width="100%" alt="Automation Banner"/>
+<img src="./banner.svg" width="100%" alt="Dhanush Ramesh Babu - Industry 4.0 Automation Engineer"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushrameshbabu16-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushrameshbabu16)
 [![GitHub](https://img.shields.io/badge/GitHub-dhanushhhhh01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushhhhh01)
@@ -116,10 +116,6 @@ I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, spe
         > >> >> >
         > >> >> > <div align="center">
 
-        *"Building the bridge between physical machines and intelligent software."*
-
         ![Profile Views](https://komarev.com/ghpvc/?username=dhanushhhhh01&color=brightgreen&style=for-the-badge)
-
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
 
         </div>
