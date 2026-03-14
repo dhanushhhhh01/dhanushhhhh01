@@ -1,17 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗  ██╗ █████╗ ███╗   ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗██║  ██║██╔══██╗████╗  ██║██║   ██║██╔════╝██║  ██║
-██║  ██║███████║███████║██╔██╗ ██║██║   ██║███████╗███████║
-██║  ██║██╔══██║██╔══██║██║╚██╗██║██║   ██║╚════██║██╔══██║
-██████╔╝██║  ██║██║  ██║██║ ╚████║╚██████╔╝███████║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
-# Dhanush Ramesh Babu
-
-### Industry 4.0 Engineer | AI & Automation | IIoT | ROS 2 | Python
+![Automation Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Dhanush%20Ramesh%20Babu&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Industry%204.0%20%7C%20AI%20%26%20Automation%20%7C%20IIoT%20%7C%20ROS%202%20%7C%20Python&descAlignY=58&descSize=18&descColor=ffffff)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushrameshbabu16-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushrameshbabu16)
 [![GitHub](https://img.shields.io/badge/GitHub-dhanushhhhh01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushhhhh01)
@@ -82,6 +71,11 @@ I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, spe
         | [🌐 iiot-gateway-bridge](https://github.com/dhanushhhhh01/iiot-gateway-bridge) | OPC-UA/MQTT/Modbus edge-to-cloud gateway | Python, InfluxDB, Docker |
         | [🔥 thermal-predictive-twin](https://github.com/dhanushhhhh01/thermal-predictive-twin) | ML-based thermal failure prediction digital twin | Python, LSTM, FastAPI |
         | [🛠️ python-automation-scripts](https://github.com/dhanushhhhh01/python-automation-scripts) | 20+ automation scripts for data, web & industrial | Python, MQTT, Slack |
+        | [📊 smart-factory-dashboard](https://github.com/dhanushhhhh01/smart-factory-dashboard) | Real-time factory KPI dashboard with OEE, downtime & n8n alerts | Python, MQTT, Grafana, Docker |
+        | [🗣️ ros2-llm-voice-robot](https://github.com/dhanushhhhh01/ros2-llm-voice-robot) | ROS 2 robot controlled via natural language LLM commands | ROS2, LangChain, Ollama, Nav2 |
+        | [⚙️ predictive-maintenance-api](https://github.com/dhanushhhhh01/predictive-maintenance-api) | Production-ready FastAPI for LSTM-based failure prediction | Python, FastAPI, LSTM, Docker |
+        | [☁️ iiot-azure-pipeline](https://github.com/dhanushhhhh01/iiot-azure-pipeline) | Edge-to-Azure IoT Hub pipeline with device twin management | Python, Azure IoT, MQTT, Docker |
+        | [🤖 industrial-ai-agent](https://github.com/dhanushhhhh01/industrial-ai-agent) | LLM agent that monitors n8n workflows & auto-diagnoses failures | Python, LangGraph, n8n API, Ollama |
 
         ---
 
@@ -113,17 +107,19 @@ I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, spe
 
         > 🟢 **I am actively looking for Werkstudent or Internship opportunities in Berlin!**
         > >
-        > > > If you're working on anything in **Industry 4.0**, **AI Automation**, **Robotics**, or **IIoT** — let's connect!
-        > > >
-        > > > [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushrameshbabu16)
-        > > > [![Email](https://img.shields.io/badge/Email%20Me-dhanushr.3504%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushr.3504@gmail.com)
-        > > >
-        > > > ---
-        > > >
-        > > > <div align="center">
+        > >> If you're working on anything in **Industry 4.0**, **AI Automation**, **Robotics**, or **IIoT** — let's connect!
+        > >> >
+        > >> >> [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushrameshbabu16)
+        > >> >> > [![Email](https://img.shields.io/badge/Email%20Me-dhanushr.3504%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushr.3504@gmail.com)
+        > >> >> >
+        > >> >> > ---
+        > >> >> >
+        > >> >> > <div align="center">
 
         *"Building the bridge between physical machines and intelligent software."*
 
         ![Profile Views](https://komarev.com/ghpvc/?username=dhanushhhhh01&color=brightgreen&style=for-the-badge)
+
+        ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer)
 
         </div>
