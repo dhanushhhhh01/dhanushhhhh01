@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./avatar.svg" width="220" height="220" alt="Dhanush Ramesh Babu Avatar"/>
-
-<img src="./banner.svg" width="100%" alt="Dhanush Ramesh Babu - Industry 4.0 Automation Engineer"/>
+<img src="./avatar.svg" width="100%" alt="Dhanush Ramesh Babu - Animated Profile Card"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushrameshbabu16-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushrameshbabu16)
 [![GitHub](https://img.shields.io/badge/GitHub-dhanushhhhh01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushhhhh01)
@@ -81,7 +79,7 @@ I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, spe
 
           | Project | Description | Stack |
           |--------|-------------|-------|
-          | [🎨 rajesh-portfolio](https://github.com/raxx21/rajesh-portfolio) | Award-worthy 3D portfolio website with WebGL, GSAP animations & Three.js — 439 ⭐ | React, TypeScript, Three.js, GSAP, WebGL |
+          | [🎨 rajesh-portfolio](https://github.com/dhanushhhhh01/rajesh-portfolio/tree/dhanush-portfolio) | Award-worthy 3D portfolio website with WebGL, GSAP animations & Three.js | React, TypeScript, Three.js, GSAP, WebGL |
           | [🏭 industry4-cv-plc-sorting-bridge](https://github.com/dhanushhhhh01/industry4-cv-plc-sorting-bridge) | AI-powered color sorting with OpenCV + PLC/MQTT | Python, OpenCV, MQTT |
           | [🤖 ros2-robot-simulation](https://github.com/dhanushhhhh01/ros2-robot-simulation) | Multi-robot fleet orchestration with ROS 2 & Nav2 | ROS2, Python, Gazebo |
           | [🔁 n8n-ai-workflow-hub](https://github.com/dhanushhhhh01/n8n-ai-workflow-hub) | 12 production n8n workflow automations | n8n, Docker, AI APIs |
@@ -100,18 +98,12 @@ I'm a **Master's student** at **SRH Berlin University of Applied Sciences**, spe
           ## ✨ Contribution Activity
 
           <div align="center">
-
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushhhhh01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
           <br/>
-
           <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-
           <br/>
-
           <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
-          </div>
+          </div>div>
 
           ---
 
