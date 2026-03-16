@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./avatar.svg" width="220" height="220" alt="Dhanush Ramesh Babu Avatar"/>
+
 <img src="./banner.svg" width="100%" alt="Dhanush Ramesh Babu - Industry 4.0 Automation Engineer"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushrameshbabu16-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanushrameshbabu16)
